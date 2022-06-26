@@ -1,0 +1,8 @@
+{
+  "scripts":{
+    "start": "stream-adventure"
+  },
+  "devDependencies": {
+    "stream-adventure": "github:workshopper/stream-adventure"
+  }
+}
